@@ -8,5 +8,5 @@ import zipfile
 #     myzip.write('saying.txt')
 
 # 해제하기
-with zipfile.ZipFile('mytext.zip') as myzip:
-    myzip.extractall()
+# with zipfile.ZipFile('mytext.zip') as myzip:
+#     myzip.extractall()
